@@ -8,6 +8,8 @@
 ## Usage
 `git clone git@github.com:ValBaturin/elixir-steganography.git && cd elixir-steganography`
 
+`iex`
+
 `c "bmp_steganography.ex"`
 
 `BMPS.encrypt("images/IMAGE.BMP", "MESSAGE", "results/IMAGE.BMP"`
