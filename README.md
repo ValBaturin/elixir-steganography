@@ -6,7 +6,7 @@
 * And many others
 
 ## Usage
-`git clone git@github.com:ValBaturin/elixir-steganography.git`
+`git clone git@github.com:ValBaturin/elixir-steganography.git && cd elixir-steganography`
 
 `c "bmp_steganography.ex"`
 
